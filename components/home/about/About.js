@@ -12,7 +12,7 @@ export const About = () => {
       <div className={styles.about}>
         <div>
           <Reveal>
-            <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
+            <p className={styles.aboutText}>
               Halo! Perkenalkan, saya Muhammad Ibadil Mukhlasin. Saya adalah 
               seorang mahasiswa aktif di Politeknik Negeri Tanah Laut, tengah 
               menempuh studi di jurusan D4 Teknologi Rekayasa Komputer. 
