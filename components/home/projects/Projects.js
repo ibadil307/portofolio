@@ -20,6 +20,8 @@ const projects = [
   {
     title: "TALENT SCOUTING ACADEMY",
     imgSrc: "project-imgs/projek.png",
+    code: "https://www.github.com",
+    projectLink: "#",
     tech: ["Network"],
     description:
       "Pelopor Teknisi Jaringan Membangun Desa di Kantor Desa Kayu Abang.",
