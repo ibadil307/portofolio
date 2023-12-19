@@ -14,26 +14,25 @@ export const Contact = () => {
         </Reveal>
         <Reveal width="100%">
           <p className={styles.contactCopy}>
-            Shoot me an email if you want to connect! You can also find me on{" "}
+            Kirimi saya email jika Anda ingin terhubung! Anda juga dapat menemukan saya di{" "}
             <Link
-              href="https://www.linkedin.com"
+              href="https://wa.me/6289603418082"
               target="_blank"
               rel="nofollow"
             >
-              Linkedin
+              Whatsapp
             </Link>{" "}
-            or{" "}
-            <Link href="https://www.twitter.com" target="_blank" rel="nofollow">
-              Twitter
+            atau{" "}
+            <Link href="https://linktree.ibadil.com" target="_blank" rel="nofollow">
+              Linktree
             </Link>{" "}
-            if that&apos;s more your speed.
           </p>
         </Reveal>
         <Reveal width="100%">
-          <Link href="mailto:bob.ross@notreal.com">
+          <Link href="mailto:ibadil307@gmail.com">
             <div className={styles.contactEmail}>
               <AiFillMail size="2.4rem" />
-              <span>bob.ross@notreal.com</span>
+              <span>ibadil307@gmail.com</span>
             </div>
           </Link>
         </Reveal>
