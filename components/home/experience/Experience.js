@@ -21,14 +21,7 @@ const experience = [
     description:
       "Di projek ini saya membantu desa yang awalnya susah mendapatkan jaringan yang stabil agar mendapatkan koneksi internet menjadi lebih lancar.",
     tech: [
-      "Angular",
-      "Python",
-      "GCP",
-      "Git",
-      "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
+      "Network",
     ],
   },
 ];
