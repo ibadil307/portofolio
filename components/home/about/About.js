@@ -52,7 +52,7 @@ export const About = () => {
               Jika Anda memiliki proyek menarik atau peluang kerja yang sesuai dengan 
               keahlian saya, saya sangat berharap dapat berdiskusi lebih lanjut dan 
               berkontribusi pada kemajuan perusahaan atau tim Anda. Terima kasih telah 
-              meluangkan waktu untuk membaca "About Me" saya. Jika Anda memiliki pertanyaan 
+              meluangkan waktu untuk membaca &quot;About Me&quot; saya. Jika Anda memiliki pertanyaan 
               atau ingin berhubungan, jangan ragu untuk menghubungi saya. 
               Terima kasih atas perhatian Anda.
               </p>
