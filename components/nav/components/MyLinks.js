@@ -46,7 +46,7 @@ export const MyLinks = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.3 }}
       >
-        <Link href="https://www.codepen.io" target="_blank" rel="nofollow">
+        <Link href="https://www.instagram.com" target="_blank" rel="nofollow">
           <AiFillCodepenCircle size="2.4rem" />
         </Link>
       </motion.span>
