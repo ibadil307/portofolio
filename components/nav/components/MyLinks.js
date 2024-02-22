@@ -47,7 +47,7 @@ export const MyLinks = () => {
         transition={{ duration: 0.5, delay: 0.3 }}
       >
         <Link href="https://www.instagram.com" target="_blank" rel="nofollow">
-          <AiFillInstagramCircle size="2.4rem" />
+          <AiFillCodepenCircle size="2.4rem" />
         </Link>
       </motion.span>
     </div>
